@@ -1,0 +1,1 @@
+https://hidden-scrubland-56977.herokuapp.com/admin/login/?next=/admin/
